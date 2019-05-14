@@ -1,0 +1,15 @@
+panel{
+	width: 100%;
+}
+
+.jumbotron{
+	background-color: #1f89df;
+	/* Find light color of success panel */
+	color: #ffffff;
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+
+.panel-heading{
+	padding-top: 0.25%;
+}
